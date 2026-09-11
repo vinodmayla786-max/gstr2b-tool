@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+thefuzz==0.22.1
+python-Levenshtein==0.25.0
+XlsxWriter==3.2.0
+openpyxl==3.1.2
+pdfplumber==0.11.0
